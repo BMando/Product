@@ -1,7 +1,7 @@
 ---
-name: Epic issue template
+name: Epic
 about: Describe the high-level product goal.
-title: "[Epic]"
+title: "[X.0.0]"
 labels: ''
 assignees: ''
 
